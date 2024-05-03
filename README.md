@@ -2,7 +2,7 @@
 
 I am a passionate CS student at Higher Institute Of Computer Science And Multimedia Of Sfax, driven by a curiosity for technology and a love for problem solving. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<Ayman-ing>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
