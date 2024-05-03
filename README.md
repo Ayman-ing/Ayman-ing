@@ -29,7 +29,7 @@ I am a passionate CS student at Higher Institute Of Computer Science And Multime
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/aymanfeki1)
-- Connect with me on [LinkedIn](www.linkedin.com/in/ayman-feki)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ayman-feki)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
