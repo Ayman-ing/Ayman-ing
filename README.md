@@ -13,7 +13,7 @@ I am a passionate CS student at Higher Institute Of Computer Science And Multime
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,spring,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,spring,vue)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
