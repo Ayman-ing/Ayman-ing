@@ -18,7 +18,7 @@ I am a passionate CS student at Higher Institute Of Computer Science And Multime
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Working with Nuxt.js (Vue 3) as a part-time job experience.
+  - Building Projects  with Nuxt.js (Vue 3) for the frontend.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Spring Boot, a powerful Java web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
