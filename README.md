@@ -15,7 +15,7 @@ I am a **Data Engineering & Decision-Support Making Student** and a passionate c
 ### 💻 Tech Stack
 
 #### **Languages & Core**
-[![My Skills](https://skillicons.dev/icons?i=python,java,rust,cpp,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js)](https://skillicons.dev)
 
 #### **Backend, Frameworks & AI Engineering**
 [![My Skills](https://skillicons.dev/icons?i=fastapi,spring,postgres,linux,git,github)](https://skillicons.dev)
