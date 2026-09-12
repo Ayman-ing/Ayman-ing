@@ -1,4 +1,4 @@
-# Hi, I'm Ayman Feki! 👋
+# Hi, I'm Aymen Feki! 👋
 
 I am a **Data Engineering & Decision-Making Student** and a passionate competitive programmer. I thrive on solving complex algorithmic challenges and building high-performance backends and AI systems. 
 
